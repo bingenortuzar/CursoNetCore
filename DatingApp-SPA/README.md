@@ -1,6 +1,7 @@
 # DattingappSPA
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+is a practice from udemy course :[A practical example of how to build an application with ASP.NET Core WebAPI (v2.2) and Angular (v8) from start to finish](https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch)
 
 ## Development server
 
